@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  HardTask
+
+  Created by Donna on 08/03/2023.
+  
+*/
+"MaDonna Galab \n Assessment" = "مادونا مكاريوس راضي";
+"Task 1"= "تاسك ١";
+"Task 2"= "تاسك ٢";
+"Time Out" = "انتهي الوقت";
+"There is no more Child" = "لا يوجد المزيد";
+"Register" = "تسجيل مستخدم جديد";
+"Full Name" = "الاسم بالكامل";
+"Password" = "كلمة السر";
+"Code" = "الكود";
+"Mobile" = "رقم الهاتف";
+"Email" = "البريد الالكتروني";
+"Country" =  "الدولة";
+"City" = "البلد";
+"By clicking register you agree to" = "الضغط علي تسجيل مستخدم للموافقة علي";
+"Terms and Conditions" = "الشروط والاحكام";
+"Enter Valid Mobile" = "ادخل رقم هاتف صحيح";
+"Enter Valid Email" = "ادخل بريد الكتروني صحيح";
