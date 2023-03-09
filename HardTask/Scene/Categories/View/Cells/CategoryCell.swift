@@ -40,7 +40,7 @@ class CategoryCell: UICollectionViewCell {
         label.layer.shadowOpacity = 0.8
         label.layer.shadowRadius = 0.8
         label.layer.shadowColor = UIColor.black.cgColor
-        label.layer.shadowOffset = CGSizeMake(0.0, -0.8)
+        label.layer.shadowOffset = CGSize(width: 0.0, height: -0.8)
         
         return label
     }()
@@ -54,7 +54,7 @@ class CategoryCell: UICollectionViewCell {
         label.layer.shadowOpacity = 0.8
         label.layer.shadowRadius = 0.8
         label.layer.shadowColor = UIColor.black.cgColor
-        label.layer.shadowOffset = CGSizeMake(0.0, -0.8)
+        label.layer.shadowOffset = CGSize(width: 0.0, height: -0.8)
         return label
     }()
     
